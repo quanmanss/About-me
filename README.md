@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Quan</h1>
 <h3 align="center">An energetic Telecommunication from Vietnam</h3>
 
-- 🔭 I’m currently working on **ANSA lab**
+- 🔭 I’m currently working on **ANSA lab in Hanoi University of Sciene and Technology**
 
 - 🌱 I’m currently learning **5G, Machine learning, Docker**
 
